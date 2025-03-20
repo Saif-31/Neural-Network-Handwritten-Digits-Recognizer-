@@ -11,6 +11,7 @@ This repository contains a Streamlit application for training a neural network t
 ## Repository Structure
 
 handwritten-digit-streamlit/
+```
 ├── app.py             # Main Streamlit application file
 ├── model.py           # Functions to build and train the TensorFlow model
 ├── utils.py           # Utility functions (e.g. plotting)
